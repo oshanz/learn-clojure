@@ -4,6 +4,8 @@
 * https://github.com/oshanz/braveclojure
 * https://learnxinyminutes.com/docs/clojure/
 * https://github.com/mattmakai/fullstackclojure.com
+* https://clojure.org/community/resources
+
 
 
 # Books
