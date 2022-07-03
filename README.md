@@ -20,3 +20,4 @@
 
 # Jobs
 * https://functional.works-hub.com/clojure-jobs
+* https://jobs.braveclojure.com/
