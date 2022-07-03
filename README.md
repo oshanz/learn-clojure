@@ -8,3 +8,8 @@
 
 # Books
 * https://hackernewsbooks.com/topics/learning-clojure-programming-books
+* https://htdp.org/
+
+
+# Community
+* https://www.reddit.com/r/Clojure/
