@@ -9,7 +9,14 @@
 # Books
 * https://hackernewsbooks.com/topics/learning-clojure-programming-books
 * https://htdp.org/
+* https://clojure.org/community/books
 
 
 # Community
 * https://www.reddit.com/r/Clojure/
+* https://ask.clojure.org/
+* https://clojureverse.org/
+
+
+# Jobs
+* https://functional.works-hub.com/clojure-jobs
